@@ -1,0 +1,15 @@
+{
+  "name": "mongexpres",
+  "version": "1.0.0",
+  "description": "mongo and express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kris",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "*"
+  }
+}
